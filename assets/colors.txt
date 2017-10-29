@@ -1,0 +1,12 @@
+color name	- #hex    - $gamemaker
+
+red		- #ff0000 - $0000ff
+neon green	- #31ff00 - $00ff31
+blue		- #009aff - $ff9a00
+orange		- #ff7c00 - $007cff
+magenta		- #ff00ff - $ff00ff
+yellow		- #fff700 - $00f7ff
+light blue	- #4bc7ff - $ffc74b
+pink		- #ff0080 - $8000ff
+green		- #279839 - $399827
+purple		- #7400ff - $ff0074
