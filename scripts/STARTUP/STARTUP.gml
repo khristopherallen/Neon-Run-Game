@@ -24,3 +24,16 @@ global.color_[col_.lightBlue] = $ffc74b;
 global.color_[col_.pink] = $8000ff;
 global.color_[col_.green] = $399827;
 global.color_[col_.purple] = $ff0074;
+
+enum dir {
+	right,
+	up,
+	left,
+	down
+}
+
+global.components = [];
+global.components[dir.right] = [1,0];
+global.components[dir.up] = [0,-1];
+global.components[dir.left] = [-1,0];
+global.components[dir.down] = [0,1];
