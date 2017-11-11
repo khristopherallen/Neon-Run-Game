@@ -2,6 +2,7 @@
 
 var hInput = keyboard_check(vk_right) - keyboard_check(vk_left);
 
+
 var downDir = global.components[dir.down];
 
 if (!place_meeting(x, y + downDir[1], o_collision)){
@@ -36,4 +37,5 @@ if (hInput == 0 && onGround_){
 	speed_[h] = lerp(speed_[h], 0, friction_);
 } 
 
-speed_[h] = 10;
+speed_[h] = 5;
+rot_ -= 15;

@@ -2,8 +2,8 @@
 friction_ = 1;
 speed_ = [0, 0];
 max_speed_ = 4;
-gravity_ = 2;
-jump_height_ = 20;
+gravity_ = 1;
+jump_height_ = 15;
 onGround_ = false;
 acceleration_ = .5;
 alive_ = true;

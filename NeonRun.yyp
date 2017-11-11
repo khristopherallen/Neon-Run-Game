@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "4b1851bc-4a3b-44de-bb6e-2aee6ef695e4",
+            "Value": {
+                "id": "39b3a18c-04ef-4a2b-ac24-6ed024875272",
+                "resourcePath": "sprites\\s_buttons\\s_buttons.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54ecd914-7531-4fe5-8383-d801ab12f849",
             "Value": {
                 "id": "2c03edc5-4ca6-44ca-b2cd-41a4d2ba0b37",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "92ed792a-3dd7-4687-8db4-80419c2e8ac3",
+            "Value": {
+                "id": "990a2ae7-a42c-4fdb-9f7a-fe9102904d61",
+                "resourcePath": "objects\\o_spikes\\o_spikes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5f52748-8547-4535-93f0-a274913afca4",
             "Value": {
                 "id": "51c8a51f-c448-4118-9928-0a846f29b8bd",
@@ -172,6 +188,14 @@
                 "id": "2b768456-770f-496b-94c1-5af92538d001",
                 "resourcePath": "objects\\o_button\\o_button.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b553092c-9c28-425a-b1d2-1e902f40f396",
+            "Value": {
+                "id": "ed35250f-86fa-4a99-a7bc-e95b0abbb0e9",
+                "resourcePath": "sprites\\s_spikes\\s_spikes.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -266,7 +290,7 @@
             "Key": "ff1e1e59-5840-47c2-a324-149568815ae1",
             "Value": {
                 "id": "5dab15e8-ae49-4fac-8eea-0dae8ea4ef8b",
-                "resourcePath": "sprites\\glow_tiles_base\\glow_tiles_base.yy",
+                "resourcePath": "sprites\\s_glow_tiles_base\\s_glow_tiles_base.yy",
                 "resourceType": "GMSprite"
             }
         }
